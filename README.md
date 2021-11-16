@@ -1,4 +1,4 @@
-### Greetings!
+# Welcome!
 
 I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational Neuroscience. I have an ongoing interest in all things related to deep learning and AI. I'm particularly interested in foundational questions in the field. 
 
@@ -8,8 +8,17 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 <!-- <p align="left"> -->
 #### Python
 #### Javascript
+#### Tensorflow and Keras
+#### ReactJs
+#### NextJs
+#### MATLAB
+#### Git
+#### Docker
+#### Jira
+#### GCP and Dialogflow
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/RDkWVfz5p8j74HwM9" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/U9mU93cd2XAujmRn6" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
  <img src="https://images.app.goo.gl/6oGK7AaXyVvyK12A9" alt="Tensorflow" height="60" style="vertical-align:top; margin:4px">
@@ -19,7 +28,7 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 
 <img src="https://images.app.goo.gl/VG5aQJ9f6Q6qtKgFA" alt="Jira" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/LEH9YqF1nbG61pHM9" alt="GCP" height="60" style="vertical-align:top; margin:4px">
-<img src="https://images.app.goo.gl/VvuakCTULfVpF75x6" alt="Docker" height="60" style="vertical-align:top; margin:4px">
+<img src="https://images.app.goo.gl/VvuakCTULfVpF75x6" alt="Docker" height="60" style="vertical-align:top; margin:4px"> -->
  
 <!-- </p> -->
 <!-- LANGUAGES-POST-LIST:END -->
