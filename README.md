@@ -14,6 +14,17 @@ Here are some ideas to get you started:-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
  <img src="https://images.app.goo.gl/U9mU93cd2XAujmRn6" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
 </p>
+
+### 📕 What I am currently working on:
+
+<!-- WORK-POST-LIST:START -->
+- [Building my personal website using NextJs (under constructio)](https://alhussein.me/)
+- [Building a webapp using PyTorch/ReactJS/GCP that segments live-video feed from camera (early stage)]
+- [Learning PyTorch]
+<!-- WORK-POST-LIST:END -->
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
