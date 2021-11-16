@@ -24,7 +24,7 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 <!-- </p> -->
 <!-- LANGUAGES-POST-LIST:END -->
 
-### 🔭 What I am currently working on:
+## What I am currently working on:
 
 <!-- WORK-POST-LIST:START -->
 - [Building my personal website using NextJs (under construction)](https://alhussein.me/)
@@ -34,7 +34,7 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 <!-- WORK-POST-LIST:END -->
 
 
-### 🌱 I’m currently learning ...
+## I’m currently learning ...
 <!-- LEARN-POST-LIST:START -->
 - Full web dev lifecycle 
 - PyTorch
