@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational Neuroscience. I have an ongoing interest in all things related to deep learning and AI. I'm particularly interested in foundational questions in the field. 
+I'm Al-Hussein. I hold two masters in Artificial Intelligence and Computational Neuroscience. I have an ongoing interest in all things related to deep learning, AI, and web development. I'm particularly interested in foundational questions in deep learning. 
 
 
 ## Main Languages and Tools:
