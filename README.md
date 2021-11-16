@@ -6,8 +6,7 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 ## Main Languages and Tools:
 <!-- LANGUAGES-POST-LIST:START -->
 <!-- <p align="left"> -->
-#### Python
-#### Javascript
+#### Python | #### Javascript
 #### Tensorflow and Keras
 #### ReactJs
 #### NextJs
