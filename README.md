@@ -27,9 +27,10 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 ### 🔭 What I am currently working on:
 
 <!-- WORK-POST-LIST:START -->
-- [Building my personal website using NextJs (under constructio)](https://alhussein.me/)
+- [Building my personal website using NextJs (under construction)](https://alhussein.me/)
 - Building a webapp using PyTorch/ReactJS/GCP that segments live-video feed from camera (early stage)
 - Learning PyTorch
+- I am also currently modifying some of the projects I worked when I was in Aberdeen University. Will host them here once they're ready.
 <!-- WORK-POST-LIST:END -->
 
 
