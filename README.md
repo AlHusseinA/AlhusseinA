@@ -3,11 +3,11 @@
 I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational Neuroscience. I have an ongoing interest in all things related to deep learning and AI. I'm particularly interested in foundational questions in the field. 
 
 
-### Main Languages and Tools:
+## Main Languages and Tools:
 <!-- LANGUAGES-POST-LIST:START -->
 <!-- <p align="left"> -->
-# Python
-# Javascript
+#### Python
+#### Javascript
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/RDkWVfz5p8j74HwM9" alt="Python" height="60" style="vertical-align:top; margin:4px">
