@@ -52,7 +52,7 @@ You can also reach me on my personal email: alhussein.abutaleb(AT)gmail(DOT)com
 ### GitHub Stats
 
 <!-- [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=moabukar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Al-Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?AlHusseinA=anuraghazra&show_icons=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Al-Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlHusseinA&show_icons=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlHusseinA&color=green&style=liquid" />
