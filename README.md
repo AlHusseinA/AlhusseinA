@@ -6,15 +6,7 @@ I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational
 ## Main Languages and Tools:
 <!-- LANGUAGES-POST-LIST:START -->
 <!-- <p align="left"> -->
-#### Python | #### Javascript
-#### Tensorflow and Keras
-#### ReactJs
-#### NextJs
-#### MATLAB
-#### Git
-#### Docker
-#### Jira
-#### GCP and Dialogflow
+#### Python | Javascript | Tensorflow and Keras | ReactJs | NextJs | MATLAB | Git | Docker | Jira | GCP and Dialogflow
 
 
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
