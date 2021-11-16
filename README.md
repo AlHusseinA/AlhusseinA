@@ -46,3 +46,13 @@ You can also reach me on my personal email: alhussein.abutaleb(AT)gmail(DOT)com
 
 
 - ⚡ Fun fact: Al-Hussein means 'The Handsome one in Arabic!'....but you already knew that, no?
+
+
+
+### GitHub Stats
+
+[![Al-Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?AlhusseinA=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
+</p>
