@@ -1,10 +1,8 @@
 ### Greetings!
 
-I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational Neuroscience. I have an on going interest in all things related to deeo learning and AI. I'm particularly interested in foundational questions in the field. 
-<!--
-**AlHusseinA/AlhusseinA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Al-Hussein. I hold two MSc's in Artificial Intelligence and in Computational Neuroscience. I have an ongoing interest in all things related to deep learning and AI. I'm particularly interested in foundational questions in the field. 
 
-Here are some ideas to get you started:-->
+
 ### Main Languages and Tools:
 <!-- LANGUAGES-POST-LIST:START -->
 <!-- <p align="left"> -->
@@ -19,9 +17,6 @@ Here are some ideas to get you started:-->
 <img src="https://images.app.goo.gl/VG5aQJ9f6Q6qtKgFA" alt="Jira" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/LEH9YqF1nbG61pHM9" alt="GCP" height="60" style="vertical-align:top; margin:4px">
 <img src="https://images.app.goo.gl/VvuakCTULfVpF75x6" alt="Docker" height="60" style="vertical-align:top; margin:4px">
-
-
-
  
 <!-- </p> -->
 <!-- LANGUAGES-POST-LIST:END -->
