@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Al-Hussein. I hold two masters in Artificial Intelligence and Computational Neuroscience. I have an ongoing interest in all things related to deep learning, AI, and web development. I'm particularly interested in foundational questions in deep learning. 
+I'm Al-Hussein. I hold two MScs in Artificial Intelligence and in Computational Neuroscience. I have an ongoing interest in all things related to deep learning, AI, and web development. I'm particularly interested in practocal foundational questions in deep learning. 
 
 
 ## Main Languages and Tools:
@@ -28,9 +28,9 @@ I'm Al-Hussein. I hold two masters in Artificial Intelligence and Computational 
 
 <!-- WORK-POST-LIST:START -->
 - [Building my personal website using NextJs (under construction)](https://alhussein.me/)
-- Building a webapp using PyTorch/ReactJS/GCP that segments live-video feed from camera (early stage)
+- Building a webapp using PyTorch/ReactJS/GCP that segments live-video feed from camera (very early stage)
 - Learning PyTorch
-- I am also currently modifying some of the projects I worked when I was in Aberdeen University. Will host them here once they're ready.
+- I am also currently modifying some of the projects I worked on when I was in Aberdeen University. Will host them here once they're ready.
 <!-- WORK-POST-LIST:END -->
 
 
