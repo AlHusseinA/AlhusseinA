@@ -49,9 +49,6 @@ I'm Al-Hussein. I hold two MScs in Artificial Intelligence and in Computational 
 You can also reach me on my personal email: alhussein.abutaleb(AT)gmail(DOT)com
 
 
-- ⚡ Fun fact: Al-Hussein means 'The Handsome one in Arabic!'....but you already knew that, no?
-
-
 
 ### GitHub Stats
 <!-- 
